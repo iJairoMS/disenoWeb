@@ -1,0 +1,23 @@
+#caja1 {
+height: 1000px;
+}
+
+#caja2 { /* es la imagen*/
+
+    width: 500px;
+    height: 200px;
+    float: right;
+}
+
+#caja3 {
+
+    background-color: yellowgreen;
+
+}
+
+#caja4 {
+
+    background-color: yellow;
+    width: 200px;
+    float: right;
+}
